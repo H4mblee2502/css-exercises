@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.rightOnClick {
+    background-color: black;
+    color: white;
+}
+
+.leftOnClick{
+    background-color: yellow;
+}
+
+.rightOnClick,
+.leftOnClick {
+    font-size: 28px;
+    font-family: 'Helventice', 'Times New Roman', sans-serif;
+}
